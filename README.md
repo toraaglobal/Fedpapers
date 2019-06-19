@@ -1,7 +1,20 @@
 # Fedpapers
 [Resolving Publication Mystery in US History](https://github.com/toraaglobal/Fedpapers/blob/master/IST738_TextMining_Project.pdf)
 
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+  
+</head>
+
+<body>
+  
+  <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
 
 
 <div id="ldavis_el2562140242759513936573143378"></div>
@@ -38,3 +51,7 @@ if(typeof(LDAvis) !== "undefined"){
          });
 }
 </script>
+
+</body>
+
+</html>
